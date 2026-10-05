@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # 🔑 Insira sua chave real da API-Sports (Fórmula 1)
-API_KEY = "7b393b923c767255d2e72ca58542ebff"
+API_KEY = "Escreva sua cha de api aqui!"
 BASE_URL = "https://v1.formula-1.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 
